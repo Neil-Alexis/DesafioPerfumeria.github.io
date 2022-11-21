@@ -1,0 +1,175 @@
+
+@font-face {
+  font-family: ;
+  src: url(https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);
+}
+
+.conteiner {
+  width: 50%;
+  display: grid;
+  grid-template-columns: 50%;
+}
+
+.logo {
+  width: 170%;
+}
+
+.expo-fecha {
+  color: aliceblue;
+  background-color: #00acae;
+  text-align: center;
+  width: 190%;
+  height: 100%;
+  font-size: 25px;
+  margin-left: -60px;
+}
+
+.expo-fecha p {
+  margin-top: -20px;
+  margin-right: -40px;
+  font-size: 20px;
+}
+
+.expo-center {
+  background-color: #c5e6e3;
+  width: 172%;
+  height: 450%;
+}
+
+.expo-center h1 {
+  color: #8f6499;
+  font-size: 40px;
+  margin: 30px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.expo-center h2 {
+  color: #00acae;
+  margin-left: 30px;
+  margin-top: -30px;
+  font-size: 40px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.expo-flecha {
+  width: 1%;
+  padding: 5%;
+}
+
+.expo-flecha img {
+  width: 120px;
+  padding: 20px;
+}
+
+.expo-cole h1 {
+  color: #facb12;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 30px;
+  margin: 3px;
+
+}
+
+.expo-cole {
+  background-color: #8f6499;
+  width:90%;
+  height: 600%;
+  margin: 77px auto;
+border-radius: 10px;
+  margin-right: -150px;
+  margin-top: -170px;
+  text-align: center;
+ 
+  
+}
+
+.expo-cole p {
+  color: white;
+  font-weight: 900;
+  font-family: "Ubuntu", sans-serif;
+  margin: 1px;
+  font-size: 25px 
+
+}
+
+
+.hotel-img img{
+  width: 100px;
+  padding: 30px;
+}
+
+
+.expo-hotel {
+  background-color: #8f6499;
+  width: 90%;
+  height:550%;
+  margin: 77px auto;
+border-radius: 10px;
+  margin-right: -150px;
+  margin-top: -170px;
+  text-align: center;
+}
+
+.expo-hotel h1,h2{
+  color: #facb12;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 30px;
+  margin: 3px;
+}
+
+.expo-hotel p{
+  color: white;
+  font-weight: 900;
+  font-family: "Ubuntu", sans-serif;
+  margin: 1px;
+  font-size: 25px 
+}
+
+
+.mas-info{
+  background-color: #00acae;
+  margin-top: -15%;
+  width: 172%;
+}
+
+.mas-info h1{
+  text-align: center;
+  color: #facb12;
+  font-weight: 900;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.acreditese{
+  background-color: #8f6499;
+  width: 172%;
+  
+}
+.acreditese h1{
+  color: white;
+  font-family: "Ubuntu", sans-serif;
+  text-align: center;
+}
+
+.acreditese h2{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+
+.expo-rosa{
+  background-color: #f7adc3;
+  width: 172%;
+  
+}
+.expo-rosa h1{
+  color: #f7adc3;
+}
+
+@media screen and (max-width:959px) {
+  .conteiner{
+    width: 100%;
+  }
+  .body{
+    width: 100%;
+  }
+  
+}
